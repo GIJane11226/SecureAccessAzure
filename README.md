@@ -1,7 +1,6 @@
 <h1>Secure Access with Azure Active Directory</h1>
 <h2> Description: </h2>
 Configured and managed Azure Active Directory (AD) to enhance identity and access management (IAM) security. Implemented security policies to protect user accounts and control access to cloud-based applications.
-<br />
 <h2> Technologies Used: </h2>
 Microsoft Azure, Azure Active Directory (AD), Multi-Factor Authentication (MFA), Role-Based Access Control (RBAC), Single Sign-On (SSO), Conditional Access Policies.<br />
 <h2> Outcome/Skills Gained:</h2>
